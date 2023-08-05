@@ -83,7 +83,7 @@ console.log(add(4,6));
 |James Doe|james@gmail.com|
 
 <!-- Tasklists  Kinda Like Checkboxes -->
-<!-- the ones with X brackets are completed tasks, brackets without x are task yet to be completed. It would be properly visible on github -->
+<!-- the ones with X brackets are completed tasks, brackets without x but instead one tiny space are tasks yet to be completed. It would be properly visible on github -->
 * [x] Task 1
 * [x] Task 2
-* [] Task 3
+* [ ] Task 3
